@@ -14,7 +14,7 @@
 * 计时，规划工作休息时长
 * 提前设置工作和休息的时间，自动提醒
 * 可显示和清除时间记录
-##截图
+## 截图
 
 ![screenshot] (https://raw.githubusercontent.com/kraaas/timer/master/image/view.gif)
 
